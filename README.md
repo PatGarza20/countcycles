@@ -4,7 +4,7 @@ This is a Python program which takes an adjacency matrix as input and uses it to
 It also outputs the length of the longest cycle, the longest cycle itself, and the number of layers in the graph.
 
 ```
-e.g
+Example:
 
 0 1 0 0 0 0 0 0 0 0 0 0 0
 1 0 1 0 0 0 0 0 0 0 0 0 0
